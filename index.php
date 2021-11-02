@@ -105,7 +105,7 @@
 		</div>
 		
 		<div class="text-center credits">
-			Desarrollado y diseñado por Carlos Rodriguez 10/2021
+			Desarrollado y diseñado por Carlos Rodriguez 11/2021
 		</div>
 	</div>
 
